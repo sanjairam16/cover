@@ -196,14 +196,10 @@ Publish the website in the LocalHost.
 ~~~
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-25 143022.png>)
+<img width="482" height="706" alt="Screenshot 2025-12-25 143022" src="https://github.com/user-attachments/assets/bac7c9a6-9d2c-4e5f-ad53-034b45c9c219" />
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
 
 
-## OUTPUT:
-![alt text](<Screenshot 2025-12-25 143022.png>)
-
-## RESULT:
-The program for designing book front cover page using HTML and CSS is completed successfully.
